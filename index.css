@@ -32,13 +32,15 @@ a {
 a:hover {
     text-decoration: underline;
 }
-.optional {
-    font-style: italic;
-    color: #555;
-}
 .last-edited {
     text-align: center;
     font-size: 0.9em;
     color: #555;
     margin-bottom: 10px;
+}
+
+ul {
+    margin: 10px 0;
+    padding-left: 60px; /* Increase this value for more indentation */
+    list-style-type: disc;
 }

@@ -1,0 +1,59 @@
+2024-11-14 22:43        Kareem signs in.
+2024-11-14 22:43        Manifest file: SilverQueen1NeedBalance.txt is opened.
+2024-11-14 22:44        Balance Operation was selected.
+2024-11-14 22:44        Moved container at [2,2] (Rations for US Army) to [2,1].
+2024-11-14 22:45        Moved container at [1,2] (Catfish) to [1,7].
+2024-11-14 22:45        All balance tasks are done. Proceeding to Summary screen.
+2024-11-14 22:45        Operations for selected task are complete. New manifest has been saved to C:\Users\KS\Desktop\SilverQueen1NeedBalanceOUTBOUND.txt
+2024-11-14 22:46        Manifest file: SilverQueen2ContainerManifest.txt is opened.
+2024-11-14 22:46        Load/Unload Operation was selected.
+2024-11-14 22:46        Selecting Containers to Unload.
+2024-11-14 22:47        Container 'Catfish' at position [1,2] is selected.
+2024-11-14 22:47        Container 'Batons' at position [1,4] is selected.
+2024-11-14 22:47        Container 'Batons' at position [1,4] is deselected.
+2024-11-14 22:47        Container 'Batons' at position [1,4] is selected.
+2024-11-14 22:47        Container 'Batons' at position [1,4] is deselected.
+2024-11-14 22:47        Container 'Batons' at position [1,4] is selected.
+2024-11-14 22:47        Done Selecting Containers to Unload.
+2024-11-14 22:47        Selecting Containers to Load.
+2024-11-14 22:48        Container inputted: Name - "Nat", Weight - 5435kg.
+2024-11-14 22:48        Container inputted: Name - "Natt", Weight - 5435kg.
+2024-11-14 22:48        Container deleted: Name - "Natt", Weight - 5435kg.
+2024-11-14 22:48        There are 1 total containers to load.
+2024-11-14 22:48        Finished moving container at [2,2] (Rations for US Army) to [2,1].
+2024-11-14 22:49        Finished unloading container at [1,2] (Catfish) to TRUCK.
+2024-11-14 22:50        Finished unloading container at [1,4] (Batons) to TRUCK.
+2024-11-14 22:50        Load container Nat to [3,1].
+2024-11-14 22:50        All load/unload tasks are done. Proceeding to Summary screen.
+2024-11-14 22:50        Operations for selected task are complete. New manifest has been saved to C:\Users\KS\Desktop\SilverQueen2ContainerManifestOUTBOUND.txt
+2024-11-14 22:53        User Kareem submitted a log note: "My custom log annotation"
+2024-11-14 22:54        Manifest file: SilverQueen2ContainerManifest.txt is opened.
+2024-11-14 22:54        Load/Unload Operation was selected.
+2024-11-14 22:54        Selecting Containers to Unload.
+2024-11-14 22:54        Kareem signs out.
+2024-11-14 22:54        Win signs in.
+2024-11-14 22:54        Container 'Catfish' at position [1,2] is selected.
+2024-11-14 22:54        Container 'Batons' at position [1,4] is selected.
+2024-11-14 22:54        Done Selecting Containers to Unload.
+2024-11-14 22:54        Selecting Containers to Load.
+2024-11-14 22:54        Container inputted: Name - "bats", Weight - 54kg.
+2024-11-14 22:54        Container inputted: Name - "cats", Weight - 54kg.
+2024-11-14 22:54        Container inputted: Name - "rats", Weight - 54kg.
+2024-11-14 22:55        There are 3 total containers to load.
+2024-11-14 22:55        Win signs out.
+2024-11-14 22:55        Kareem signs in.
+2024-11-14 22:55        Kareem pressed Restart button. Navigating back to upload-manifest page.
+2024-11-14 22:56        Manifest file: SilverQueen2ContainerManifest.txt is opened.
+2024-11-14 22:56        Load/Unload Operation was selected.
+2024-11-14 22:56        Selecting Containers to Unload.
+2024-11-14 22:56        Container 'Catfish' at position [1,2] is selected.
+2024-11-14 22:56        Container 'Catfish' at position [1,2] is deselected.
+2024-11-14 22:56        Done Selecting Containers to Unload.
+2024-11-14 22:56        Selecting Containers to Load.
+2024-11-14 22:56        Container inputted: Name - "gg", Weight - 1kg.
+2024-11-14 22:57        Container inputted: Name - "my container", Weight - 1kg.
+2024-11-14 22:59        There are 2 total containers to load.
+2024-11-14 22:59        Load container gg to [2,1].
+2024-11-14 23:00        Load container my container to [3,1].
+2024-11-14 23:00        All load/unload tasks are done. Proceeding to Summary screen.
+2024-11-14 23:00        Operations for selected task are complete. New manifest has been saved to C:\Users\KS\Desktop\SilverQueen2ContainerManifestOUTBOUND_0.txt
